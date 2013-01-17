@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?> 
+<Module>
+  <ModulePrefs title="" />
+  <UserPref name="url" display_name="URL to iframe." default_value="https://code.google.com/p/hardcode"/>
+  <Content type="url" href="__UP_url__" />
+</Module>
